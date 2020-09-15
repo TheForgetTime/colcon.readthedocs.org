@@ -1,12 +1,12 @@
-colcon - collective construction
+colcon - 批量构建
 ================================
 
-`colcon`_ is a command line tool to improve the workflow of building, testing and using multiple software packages.
-It automates the process, handles the ordering and sets up the environment to use the packages.
+`colcon`_ 是一个改进构建、测试和使用多个软件包的工作流程的命令行工具.
+它自动化了软件包构建以及环境变量设置这个过程使得使用软件包更加方便.
 
 .. _colcon: http://colcon.readthedocs.io
 
-The code is open source, and `available on GitHub`_.
+工具是开源的,可以在 `available on GitHub`_ 上找到源码.
 
 .. _available on GitHub: http://github.com/colcon
 
